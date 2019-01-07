@@ -1,6 +1,6 @@
 # Choosing Estimators and Sample Sizes in Counts of Online Behavior
 J. Nathan Matias ([natematias.com](https://natematias.com)) ([@natematias](https://twitter.com/natematias))
-January 7, 2016
+January 7, 2019
 
 [READ THE REPORT: Choosing-Sample-and-Estimators.ipynb](Choosing-Sample-and-Estimators.ipynb)
 
